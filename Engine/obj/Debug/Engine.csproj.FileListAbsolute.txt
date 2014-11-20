@@ -1,0 +1,13 @@
+H:\DEV\Engine\Engine\Engine\bin\Debug\Engine.exe.config
+H:\DEV\Engine\Engine\Engine\bin\Debug\Engine.exe
+H:\DEV\Engine\Engine\Engine\bin\Debug\Engine.pdb
+H:\DEV\Engine\Engine\Engine\bin\Debug\sfmlnet-audio-2.dll
+H:\DEV\Engine\Engine\Engine\bin\Debug\sfmlnet-graphics-2.dll
+H:\DEV\Engine\Engine\Engine\bin\Debug\sfmlnet-window-2.dll
+H:\DEV\Engine\Engine\Engine\obj\Debug\Engine.exe
+H:\DEV\Engine\Engine\Engine\obj\Debug\Engine.pdb
+H:\DEV\Engine\Engine\Engine\bin\Debug\csfml-audio-2.dll
+H:\DEV\Engine\Engine\Engine\bin\Debug\csfml-graphics-2.dll
+H:\DEV\Engine\Engine\Engine\bin\Debug\csfml-window-2.dll
+H:\DEV\Engine\Engine\Engine\bin\Debug\libsndfile-1.dll
+H:\DEV\Engine\Engine\Engine\bin\Debug\openal32.dll

@@ -1,0 +1,8 @@
+H:\DEV\Engine\Engine\Engine\bin\Release\Engine.exe.config
+H:\DEV\Engine\Engine\Engine\bin\Release\Engine.exe
+H:\DEV\Engine\Engine\Engine\bin\Release\Engine.pdb
+H:\DEV\Engine\Engine\Engine\bin\Release\sfmlnet-audio-2.dll
+H:\DEV\Engine\Engine\Engine\bin\Release\sfmlnet-graphics-2.dll
+H:\DEV\Engine\Engine\Engine\bin\Release\sfmlnet-window-2.dll
+H:\DEV\Engine\Engine\Engine\obj\Release\Engine.exe
+H:\DEV\Engine\Engine\Engine\obj\Release\Engine.pdb

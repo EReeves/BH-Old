@@ -1,0 +1,2 @@
+H:\RemovableBackup\Engine\Engine\bin\x86\Release\Engine.exe.config
+H:\RemovableBackup\Engine\Engine\obj\x86\Release\Client.csprojResolveAssemblyReference.cache

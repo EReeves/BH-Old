@@ -1,0 +1,140 @@
+[
+{
+  "ParentNode": "Node9",
+  "NodeCount": 1,
+  "Dialogue": [
+    "You chose option one \"node14\". End."
+  ],
+  "DialogueNodes": [
+    "Node14"
+  ],
+  "Scripts": [],
+  "Arguments": []
+},
+{
+  "ParentNode": "Node10",
+  "NodeCount": 1,
+  "Dialogue": [
+    "You chose option two \"node11\" END."
+  ],
+  "DialogueNodes": [
+    "Node11"
+  ],
+  "Scripts": [],
+  "Arguments": []
+},
+{
+  "ParentNode": "Node6",
+  "NodeCount": 2,
+  "Dialogue": [
+    "Option one of parent node 6. \"Node9\"",
+    "Option two of parent node 6. \"Node10\""
+  ],
+  "DialogueNodes": [
+    "Node9",
+    "Node10"
+  ],
+  "Scripts": [],
+  "Arguments": []
+},
+{
+  "ParentNode": "Node3",
+  "NodeCount": 1,
+  "Dialogue": [
+    "You chose option one \"node 6\""
+  ],
+  "DialogueNodes": [
+    "Node6"
+  ],
+  "Scripts": [],
+  "Arguments": []
+},
+{
+  "ParentNode": "Node7",
+  "NodeCount": 1,
+  "Dialogue": [
+    "\"Node 12\" END."
+  ],
+  "DialogueNodes": [
+    "Node12"
+  ],
+  "Scripts": [],
+  "Arguments": []
+},
+{
+  "ParentNode": "Node4",
+  "NodeCount": 1,
+  "Dialogue": [
+    "You chose option two \"node 7\"."
+  ],
+  "DialogueNodes": [
+    "Node7"
+  ],
+  "Scripts": [],
+  "Arguments": []
+},
+{
+  "ParentNode": "Node8",
+  "NodeCount": 1,
+  "Dialogue": [
+    "\"node 13\" END."
+  ],
+  "DialogueNodes": [
+    "Node13"
+  ],
+  "Scripts": [],
+  "Arguments": []
+},
+{
+  "ParentNode": "Node5",
+  "NodeCount": 1,
+  "Dialogue": [
+    "You chose option three. \"node 8\""
+  ],
+  "DialogueNodes": [
+    "Node8"
+  ],
+  "Scripts": [],
+  "Arguments": []
+},
+{
+  "ParentNode": "Node2",
+  "NodeCount": 3,
+  "Dialogue": [
+    "Option one of parent node 2. \"Node3\"",
+    "Option two of parent node 2. \"Node4\"",
+    "Option three of parent node 2. \"Node5\""
+  ],
+  "DialogueNodes": [
+    "Node3",
+    "Node4",
+    "Node5"
+  ],
+  "Scripts": [],
+  "Arguments": []
+},
+{
+  "ParentNode": "Node1",
+  "NodeCount": 1,
+  "Dialogue": [
+    "This is node 2."
+  ],
+  "DialogueNodes": [
+    "Node2"
+  ],
+  "Scripts": [],
+  "Arguments": []
+},
+{
+  "ParentNode": "Node0",
+  "NodeCount": 1,
+  "Dialogue": [
+    "This is node 1. It is a single line.."
+  ],
+  "DialogueNodes": [
+    "Node1"
+  ],
+  "Scripts": [],
+  "Arguments": []
+}
+]
